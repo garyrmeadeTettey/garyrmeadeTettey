@@ -35,22 +35,22 @@
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)]
+[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)]
+[![](https://img.shields.io/badge/-📝%20Summarizer-000)]
+[![](https://img.shields.io/badge/-🔬%20Overwatch-000)]
+[![](https://img.shields.io/badge/-🛰%20KubeSat-000)]
+[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)]
+[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)]
 
 ### Cybersecurity Projects
 
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
-[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
-[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
-[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
+[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)]
+[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)]
+[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)]
+[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)]
+[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)]
+[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)]
 
 
 
@@ -71,13 +71,13 @@
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
-   [![Website Badge](https://img.shields.io/badge/-anushkaverma.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:/[/verma-anushka.github.io](https://github.com/garyrmeadeTettey)/anushkaverma/)]([(https://github.com/garyrmeadeTettey)/](https://github.com/garyrmeadeTettey)) 
+   [![Website Badge](https://img.shields.io/badge/-garyrmeadeTettey-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:/[/verma-anushka.github.io](https://github.com/garyrmeadeTettey)/anushkaverma/)]([(https://github.com/garyrmeadeTettey)/](https://github.com/garyrmeadeTettey)) 
    [![Linkedin Badge](https://img.shields.io/badge/-anushkaverma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/anushkaverma/) 
-   [![Medium Badge](https://img.shields.io/badge/-@v.anushka786-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@v.anushka786)](https://medium.com/@v.anushka786) 
-   [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](mailto:v.anushka786@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-@v_anushkaa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/v_anushkaa/)](https://instagram.com/v_anushkaa) 
-   [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351)
-  [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa) 
+   [![Medium Badge](https://img.shields.io/badge/-garyrmeadeTettey-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@v.anushka786)](https://medium.com/@v.anushka786) 
+   [![Gmail Badge](https://img.shields.io/badge/-garyrmeadeTettey-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](mailto:v.anushka786@gmail.com)
+   [![Instagram Badge](https://img.shields.io/badge/-garyrmeadeTettey-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/v_anushkaa/)](https://instagram.com/v_anushkaa) 
+   [![Facebook Badge](https://img.shields.io/badge/-garyrmeadeTettey-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351)
+  [![Twitter Badge](https://img.shields.io/badge/-garyrmeadeTettey-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa) 
 
   <p align="center">
     Show ❤️ by starring repositories you find good! 
@@ -90,6 +90,6 @@
 
 <div align="right">
   
-[![HitCount](http://hits.dwyl.com/verma-anushka/verma-anushka.svg)](http://hits.dwyl.com/verma-anushka/verma-anushka) ![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)]((https://github.com/garyrmeadeTettey))
+[![HitCount](http://hits.dwyl.com/garyrmeadeTettey/verma-anushka.svg)](https://github.com/garyrmeadeTettey/garyrmeadeTettey/edit/main/README.md) ![ViewCount](https://views.whatilearened.today/views/github/garyrmeadeTettey) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)]((https://github.com/garyrmeadeTettey))
 
 </div>
