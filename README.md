@@ -23,38 +23,13 @@
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-
-### Full Stack Projects
-
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)]
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)]
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)]
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)]
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)]
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)]
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)]
-
-### Cybersecurity Projects
-
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)]
-[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)]
-[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)]
-[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)]
-[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)]
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)]
-
-
-
-
 ---
 
 **Github Stats:**
@@ -71,7 +46,7 @@
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
-   [![Website Badge](https://img.shields.io/badge/-garyrmeadeTettey-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:/[/garyrmeade.github.io](https://github.com/garyrmeadeTettey)/anushkaverma/)]([(https://github.com/garyrmeadeTettey)/](https://github.com/garyrmeadeTettey)) 
+   [![Website Badge](https://img.shields.io/badge/-garyrmeadeTettey-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:/[/garyrmeade.github.io](https://github.com/garyrmeadeTettey)/)]([(https://github.com/garyrmeadeTettey)/](https://github.com/garyrmeadeTettey)) 
    [![Linkedin Badge](https://img.shields.io/badge/-garyrmeade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/garyrmeadeTettey/) 
 
    [![Gmail Badge](https://img.shields.io/badge/-garyrmeadeTettey-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.garyrmeade@gmail.com)](mailto:v.garyrmeade@gmail.com)
