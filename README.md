@@ -62,6 +62,5 @@
 
 <div align="right">
   
-[![HitCount](http://hits.dwyl.com/garyrmeadeTettey/verma-anushka.svg)](https://github.com/garyrmeadeTettey/garyrmeadeTettey/edit/main/README.md) ![ViewCount](https://views.whatilearened.today/views/github/garyrmeadeTettey) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)]((https://github.com/garyrmeadeTettey))
 
 </div>
